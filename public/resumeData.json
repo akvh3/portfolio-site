@@ -4,7 +4,7 @@
     "occupation":"computer science student at Georgia Tech,",
     "description":" seeking internship roles for the Summer of 2021.",
     "image":"profilepic.PNG",
-    "bio":"I'm a third year computer science student with an emphasis on Artificial Intelligence and Game Design. I am comfortable with a variety of technologies, including Java, Python, ReactJS, and others, and am experienced with working in agile development cycles and have performed well in many leadership roles. I also like Italian food, video games, and the Rat Pack!",
+    "bio":"I'm a third year computer science student with an emphasis on Artificial Intelligence and Game Design. I am comfortable with a variety of technologies, including Java, Python, ReactJS, and others, and am experienced with working in agile development cycles and have performed well in many leadership roles. I also like Italian food, video games, the Rat Pack, and Steelers football #HereWeGo",
     "contactmessage":"Reach out to me if you have questions or potential employment opportunities!",
     "email": "andrewvon@gatech.edu",
     "phone": "",
@@ -14,7 +14,7 @@
       "state":"GA",
       "zip": "30308"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload":"https://www.dropbox.com/s/niqurjg7ttzr926/AKV%20Resume.pdf?dl=0",
     "social":[
       {
@@ -45,7 +45,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Technologies I am experienced with, and to what degree I am comfortable with them",
     "education":[
       {
         "school":"Georgia Institute of Technology",
@@ -144,8 +144,12 @@
         "user":"Harry James Potter"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"This man might be the greatest programmer of all time. He has excelled in all of his coursework at a prestigious research institute, feels comfortable with front-end web development and software engineering/script development, and is an incredibly hard worker and excels in leadership roles.",
+        "user":"My mom and dad"
+      },
+      {
+        "text":"I don't think I would have won any of my 6 championships without this young man's progrmaming acumen, and, believe it or not, his better-than-average basketball ability. His jumpshot is not bad! Anyways, you should definitely hire him, you will not regret it.",
+        "user":"Michael Jordan"
       }
     ]
   }
