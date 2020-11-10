@@ -3,7 +3,7 @@
     "name":"Andrew von Hillebrandt",
     "occupation":"computer science student at Georgia Tech,",
     "description":" seeking internship roles for the Summer of 2021.",
-    "image":"profilepic.PNG",
+    "image":"newheadshot.jpg",
     "bio":"I'm a third year computer science student with an emphasis on Artificial Intelligence and Game Design. I am comfortable with a variety of technologies, including Java, Python, ReactJS, and others, and am experienced with working in agile development cycles and have performed well in many leadership roles. I also like Italian food, video games, the Rat Pack, and Steelers football #HereWeGo",
     "contactmessage":"Reach out to me if you have questions or potential employment opportunities!",
     "email": "andrewvon@gatech.edu",
@@ -114,7 +114,7 @@
       {
         "title":"JacketPages Rebuild",
         "category":"Rebuilding SGA's website using new tech.",
-        "image":"jacketpages.PNG",
+        "image":"jacketpages.jpg",
         "url":"https://github.gatech.edu/gt-sga-it/syllabus-repo"
       },
       {
@@ -126,13 +126,13 @@
       {
         "title":"Personal Website",
         "category":"The website you are on right now!",
-        "image":"personal.PNG",
+        "image":"personal.jpg",
         "url":"https://github.com/akvh3/portfolio-site"
       },
       {
         "title":"Space Trader",
         "category":"JavaSwing based application for CS 2340.",
-        "image":"spacetrader.PNG",
+        "image":"spacetrader.jpg",
         "url":"https://github.gatech.edu/akvh3/m4"
       }
     ]
