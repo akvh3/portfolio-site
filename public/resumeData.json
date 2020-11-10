@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name":"Andrew von Hillebrandt",
+    "occupation":"computer science student at Georgia Tech,",
+    "description":" seeking internship roles for the Summer of 2021.",
+    "image":"profilepic.PNG",
+    "bio":"I'm a third year computer science student with an emphasis on Artificial Intelligence and Game Design. I am comfortable with a variety of technologies, including Java, Python, ReactJS, and others, and am experienced with working in agile development cycles and have performed well in many leadership roles. I also like Italian food, video games, and the Rat Pack!",
+    "contactmessage":"Reach out to me if you have questions or potential employment opportunities!",
+    "email": "andrewvon@gatech.edu",
+    "phone": "",
+    "address":{
+      "street":"708 Spring St NW",
+      "city":"Atlanta",
+      "state":"GA",
+      "zip": "30308"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://www.dropbox.com/s/niqurjg7ttzr926/AKV%20Resume.pdf?dl=0",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/andrew.vonhillebrandt/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/akvhill",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andrew-von-hillebrandt-08b5b717a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/avhill/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/akvh3",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Georgia Institute of Technology",
+        "degree":"Bachelor's in Science, Computer Science",
+        "graduated":"Expected December 2021",
+        "description":"Focuses in Artificial Intelligence and Media, succeeded in classes such as Machine Learning, Computer Graphics, Artificial Intelligence, Data Structures, Discrete Mathematics, and many more."
+      }
+    ],
+    "work":[
+      {
+        "company":"Georgia Institute of Technology",
+        "title":"Teaching Assistant",
+        "years":"May 2020 - August 2020",
+        "description":"Served as a teaching assistant for CS2340 - Objects and Design under Dr. Aibek Musaev, held biweekly office hours assisting students with the semester-long JavaFX application they were to develop."
+      },
+      {
+        "company":"Student Government Association at Georgia Tech",
+        "title":"JacketPages/Syllabus Repository Project Lead",
+        "years":"April 2020 - Present",
+        "description":"Responsible for the maintenance of JacketPages, GT's budget management website for student organizations, and am currently leading a new initiative to develop a syllabus repository using AWS S3 and RDS to provide students easy access to course materials."
+      },
+      {
+        "company":"Georgia Institute of Technology",
+        "title":"Student Assistant",
+        "years":"October 2019 - Present",
+        "description":"Assisted various professors through the university with a variety of technical issues during regular semesters, and assisted the Georgia Tech administration in preparing for remote semesters during the COVID-19 pandemic."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"85%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"AWS",
+        "level":"50%"
+      },
+      {
+        "name":"C",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"JacketPages Rebuild",
+        "category":"Rebuilding SGA's website using new tech.",
+        "image":"jacketpages.PNG",
+        "url":"https://github.gatech.edu/gt-sga-it/syllabus-repo"
+      },
+      {
+        "title":"Project Ambazonia",
+        "category":"Georgia Tech Junior Design project to help refugees in Nigeria.",
+        "image":"JD.png",
+        "url":"https://github.com/akvh3/projectAmbazonia"
+      },
+      {
+        "title":"Personal Website",
+        "category":"The website you are on right now!",
+        "image":"personal.PNG",
+        "url":"https://github.com/akvh3/portfolio-site"
+      },
+      {
+        "title":"Space Trader",
+        "category":"JavaSwing based application for CS 2340.",
+        "image":"spacetrader.PNG",
+        "url":"https://github.gatech.edu/akvh3/m4"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Man, I wish we had this guy around when I was fighting Lord Voldemort! He could have easily written a script that could have parsed the world for 7 horcruxes and deleted them, no problem. Truly wonderful programmer.",
+        "user":"Harry James Potter"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
