@@ -112,10 +112,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"JacketPages Rebuild",
-        "category":"Rebuilding SGA's website using new tech.",
+        "title":"GT Syllabus Repository",
+        "category":"Creating a centralized repository for Georgia Tech syllabi.",
         "image":"jacketpages.jpg",
-        "url":"https://github.gatech.edu/gt-sga-it/syllabus-repo"
+        "url":"https://github.com/akvh3/syllabus_repo"
       },
       {
         "title":"Project Ambazonia",
@@ -130,10 +130,22 @@
         "url":"https://github.com/akvh3/portfolio-site"
       },
       {
+        "title":"Minesweeper AI",
+        "category":"An artificial intelligence that algorithmically beats Minesweeper.",
+        "image":"minesweeper.png",
+        "url":"https://github.com/akvh3/minesweeper"
+      },
+      {
+        "title":"EvoSlash",
+        "category":"Video game design group's final project: hack-and-slash zombie game!",
+        "image":"evoslash.png",
+        "url":"https://github.com/akvh3/evo_slash"
+      },
+      {
         "title":"Space Trader",
         "category":"JavaSwing based application for CS 2340.",
         "image":"spacetrader.jpg",
-        "url":"https://github.gatech.edu/akvh3/m4"
+        "url":"https://github.com/akvh3/space_trader"
       }
     ]
   },
