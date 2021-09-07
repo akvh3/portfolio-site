@@ -2,9 +2,9 @@
   "main": {
     "name":"Andrew von Hillebrandt",
     "occupation":"computer science student at Georgia Tech,",
-    "description":" seeking internship roles for the Summer of 2021.",
+    "description":" seeking full-time software engineering roles for the Summer of 2022.",
     "image":"newheadshot.jpg",
-    "bio":"I'm a third year computer science student with an emphasis on Artificial Intelligence and Game Design. I am comfortable with a variety of technologies, including Java, Python, ReactJS, and others, and am experienced with working in agile development cycles and have performed well in many leadership roles. I also like Italian food, video games, the Rat Pack, and Steelers football #HereWeGo",
+    "bio":"I'm a fourth year computer science student with an emphasis on Artificial Intelligence and Game Design. I am comfortable with a variety of technologies, including Java, Python, ReactJS, and others, and am experienced with working in agile development cycles and have performed well in many leadership roles. I also like Italian food, video games, the Rat Pack, and Steelers football #HereWeGo",
     "contactmessage":"Reach out to me if you have questions or potential employment opportunities!",
     "email": "andrewvon@gatech.edu",
     "phone": "",
@@ -56,6 +56,12 @@
     ],
     "work":[
       {
+        "company":"United Parcel Service",
+        "title":"Information Software Management Intern",
+        "years":"May 2021 - August 2021",
+        "description":"Responsible for the creation of backend Python scripts that maintained and configured network devices, parsed SQL database inventories for finding missing devices, and maintaining network efficiency and reliability."
+      },
+      {
         "company":"Georgia Institute of Technology",
         "title":"Teaching Assistant",
         "years":"May 2020 - August 2020",
@@ -64,7 +70,7 @@
       {
         "company":"Student Government Association at Georgia Tech",
         "title":"JacketPages/Syllabus Repository Project Lead",
-        "years":"April 2020 - Present",
+        "years":"April 2020 - May 2021",
         "description":"Responsible for the maintenance of JacketPages, GT's budget management website for student organizations, and am currently leading a new initiative to develop a syllabus repository using AWS S3 and RDS to provide students easy access to course materials."
       },
       {
@@ -76,12 +82,12 @@
     ],
     "skills":[
       {
-        "name":"Java",
-        "level":"90%"
+        "name":"Python",
+        "level":"95%"
       },
       {
-        "name":"Python",
-        "level":"85%"
+        "name":"Java",
+        "level":"90%"
       },
       {
         "name":"ReactJs",
