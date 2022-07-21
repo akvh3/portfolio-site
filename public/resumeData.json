@@ -50,8 +50,8 @@
       {
         "school":"Georgia Institute of Technology",
         "degree":"Bachelor's in Science, Computer Science",
-        "graduated":"Expected December 2021",
-        "description":"Focuses in Artificial Intelligence and Media, succeeded in classes such as Machine Learning, Computer Graphics, Artificial Intelligence, Data Structures, Discrete Mathematics, and many more."
+        "graduated":"December 2021, Highest Honors",
+        "description":"Focuses in Artificial Intelligence and Media, succeeded in classes such as Machine Learning, Computer Graphics, Artificial Intelligence, Data Structures, Discrete Mathematics, and many more. Graduated with Highest Honors."
       }
     ],
     "work":[
@@ -180,6 +180,10 @@
       {
         "text":"This man might be the greatest programmer of all time. He has excelled in all of his coursework at a prestigious research institute, feels comfortable with front-end web development and software engineering/script development, and is an incredibly hard worker and excels in leadership roles.",
         "user":"My mom and dad"
+      },
+      {
+        "text":"Where to begin? If we had Andrew during WWII, we would have cracked the riddle of the Engima machine in mere moments and the war would've ended far earlier. A generational programmer, and extraordinarily humble as well.",
+        "user":"Alan Turing"
       },
       {
         "text":"I don't think I would have won any of my 6 championships without this young man's progrmaming acumen, and, believe it or not, his better-than-average basketball ability. His jumpshot is not bad! Anyways, you should definitely hire him, you will not regret it.",
