@@ -2,17 +2,17 @@
   "main": {
     "name":"Andrew von Hillebrandt",
     "occupation":"computer science student at Georgia Tech,",
-    "description":" seeking full-time software engineering roles for the Summer of 2022.",
+    "description":" happily employed with Publicis Sapient!",
     "image":"newheadshot.jpg",
-    "bio":"I'm a fourth year computer science student with an emphasis on Artificial Intelligence and Game Design. I am comfortable with a variety of technologies, including Java, Python, ReactJS, and others, and am experienced with working in agile development cycles and have performed well in many leadership roles. I also like Italian food, video games, the Rat Pack, and Steelers football #HereWeGo",
+    "bio":"I'm a computer science alumni with an emphasis on Artificial Intelligence and Game Design. I am comfortable with a variety of technologies, including Java, Python, ReactJS, and others, and am experienced with working in agile development cycles and have performed well in many leadership roles. I also like Italian food, video games, the Rat Pack, and Steelers football #HereWeGo",
     "contactmessage":"Reach out to me if you have questions or potential employment opportunities!",
-    "email": "andrewvon@gatech.edu",
+    "email": "andrewvhille@gmail.com",
     "phone": "",
     "address":{
-      "street":"708 Spring St NW",
-      "city":"Atlanta",
-      "state":"GA",
-      "zip": "30308"
+      "street":"755 S Dexter St",
+      "city":"Denver",
+      "state":"CO",
+      "zip": "80246"
     },
     "website": "",
     "resumedownload":"https://www.dropbox.com/s/fght0ihwmshy9sj/Website%20Resume.pdf?dl=0",
@@ -55,6 +55,18 @@
       }
     ],
     "work":[
+      {
+        "company":"Publicis Sapient",
+        "title":"Junior Associate Software Engineer",
+        "years":"July 2022 - Present",
+        "description":"Work as a Salesforce developer for a variety of clients ranging with a variety of differing needs and requirements."
+      },
+      {
+        "company":"United Parcel Service",
+        "title":"Information Software Management Co-Op",
+        "years":"October 2021 - April 2022",
+        "description":"Same responsibilities as an intern but with elevated permissions and on a part-time basis."
+      },
       {
         "company":"United Parcel Service",
         "title":"Information Software Management Intern",
