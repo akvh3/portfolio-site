@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Andrew von Hillebrandt",
-    "occupation":"computer science student at Georgia Tech,",
+    "occupation":"software engineer,",
     "description":" happily employed with Publicis Sapient!",
     "image":"newheadshot.jpg",
     "bio":"I'm a computer science alumni with an emphasis on Artificial Intelligence and Game Design. I am comfortable with a variety of technologies, including Java, Python, ReactJS, and others, and am experienced with working in agile development cycles and have performed well in many leadership roles. I also like Italian food, video games, the Rat Pack, and Steelers football #HereWeGo",
@@ -57,9 +57,9 @@
     "work":[
       {
         "company":"Publicis Sapient",
-        "title":"Junior Associate Software Engineer",
+        "title":"Associate Software Engineer L1",
         "years":"July 2022 - Present",
-        "description":"Work as a Salesforce developer for a variety of clients ranging with a variety of differing needs and requirements."
+        "description":"Work as a Salesforce developer for a variety of clients ranging with a variety of differing needs and requirements. Clients include Keurig-Dr. Pepper and Ford Motors"
       },
       {
         "company":"United Parcel Service",
@@ -94,12 +94,24 @@
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":"JavaScript",
         "level":"95%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
       },
       {
         "name":"Java",
         "level":"90%"
+      },
+            {
+        "name":"HTML",
+        "level":"85%"
+      },
+      {
+        "name":"CSS",
+        "level":80%"
       },
       {
         "name":"ReactJs",
@@ -108,18 +120,6 @@
       {
         "name":"C#",
         "level":"75%"
-      },
-      {
-        "name":"HTML",
-        "level":"70%"
-      },
-      {
-        "name":"JavaScript",
-        "level":"65%"
-      },
-      {
-        "name":"CSS",
-        "level":"60%"
       },
       {
         "name":"AWS",
