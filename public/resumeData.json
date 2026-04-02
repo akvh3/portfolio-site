@@ -102,6 +102,10 @@
         "level":"95%"
       },
       {
+        "name":"Apex",
+        "level":"90%"
+      },
+      {
         "name":"Python",
         "level":"90%"
       },
@@ -178,12 +182,16 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Man, I wish we had this guy around when I was fighting Lord Voldemort! He could have easily written a script that could have parsed the world for 7 horcruxes and deleted them, no problem. Truly wonderful programmer.",
-        "user":"Harry James Potter"
+        "text":"Andrew is constantly improving with JS, CSS, and Apex but also possesses a remarkable ability to work effectively with others. He consistently goes above and beyond to support his colleagues, helping whenever needed, and he is not beyond asking for help when stuck. His positive attitude and willingness to help have made him a valued team member, and he has positively impacted the overall morale and productivity of the team. In addition to his strong interpersonal skills, Andrew consistently delivers outstanding results in his work. He demonstrates a deep understanding of his role and responsibilities, consistently exceeding expectations and delivering high-quality work. His attention to detail, problem-solving abilities, and dedication to excellence make him an invaluable asset to the team.",
+        "user":"Technical Architect @ Publicis Sapient"
       },
       {
         "text":"This man might be the greatest programmer of all time. He has excelled in all of his coursework at a prestigious research institute, feels comfortable with front-end web development and software engineering/script development, and is an incredibly hard worker and excels in leadership roles.",
         "user":"My mom and dad"
+      },
+      {
+        "text":"Andrew is an excellent communicator and is great at seeing the big picture. I think he understands the enterprise proposition very well and demonstrates core values through his work. He has invested time and energy into his role and I think we could all learn from his dedication to the company as a team player, value driver, and capable engineer.",
+        "user":"Senior Engineer @ Publicis Sapient"
       },
       {
         "text":"Where to begin? If we had Andrew during WWII, we would have cracked the riddle of the Engima machine in mere moments and the war would've ended far earlier. A generational programmer, and extraordinarily humble as well.",
