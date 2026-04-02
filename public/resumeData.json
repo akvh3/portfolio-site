@@ -9,13 +9,13 @@
     "email": "andrewvhille@gmail.com",
     "phone": "",
     "address":{
-      "street":"755 S Dexter St",
+      "street":"1941 W 47th Ave",
       "city":"Denver",
       "state":"CO",
-      "zip": "80246"
+      "zip": "80211"
     },
     "website": "",
-    "resumedownload":"https://www.dropbox.com/s/fght0ihwmshy9sj/Website%20Resume.pdf?dl=0",
+    "resumedownload":"https://www.dropbox.com/scl/fi/57xlp1h9p3dmafvdognra/Andrew-von-Hillebrandt-Resume.pdf?rlkey=dcn458zlhgdkcvj46pyg2mqe3&st=vdl5fus0&dl=0",
     "social":[
       {
         "name":"facebook",
@@ -59,7 +59,7 @@
         "company":"Publicis Sapient",
         "title":"Software Engineer L2",
         "years":"July 2022 - March 2026",
-        "description":"Work as a Salesforce developer for a variety of clients ranging with a variety of differing needs and requirements. Clients include Keurig-Dr. Pepper and Ford Motors"
+        "description":"Work as a Salesforce developer for a variety of clients ranging with a variety of differing needs and requirements. Clients include: Keurig-Dr. Pepper, Ford Motors, SpartanNash, Goldman-Sachs, ZOLL Medical"
       },
       {
         "company":"United Parcel Service",
@@ -103,6 +103,10 @@
       },
       {
         "name":"Apex",
+        "level":"90%"
+      },
+      {
+        "name":"Salesforce Core",
         "level":"90%"
       },
       {
@@ -198,8 +202,8 @@
         "user":"Alan Turing"
       },
       {
-        "text":"I don't think I would have won any of my 6 championships without this young man's progrmaming acumen, and, believe it or not, his better-than-average basketball ability. His jumpshot is not bad! Anyways, you should definitely hire him, you will not regret it.",
-        "user":"Michael Jordan"
+        "text":"Andrew is always present and communicative with the team. He never hesitates to reach out if help is needed, or step in to support when issues arise. He has spent many hours with me and other developers working through bugs or troubleshooting issues, always sticking around and helping where he can. He is a huge part of the team culture we have at KDP, entertaining all of us with engaging thought exercises when we have social calls, as well as always providing the right comedic break on stressful days. While not often client facing, his interactions with the client are always positive, ensuring they have realistic expectations of what we can accomplish, and always over delivering on his promises. He ensures everyone on the team has their voice heard, and is always respectful to all members of the team.",
+        "user":"Senior Product Manager @ Publicis Sapient"
       }
     ]
   }
