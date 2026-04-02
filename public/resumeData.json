@@ -2,7 +2,7 @@
   "main": {
     "name":"Andrew von Hillebrandt",
     "occupation":"software engineer,",
-    "description":" happily employed with Publicis Sapient!",
+    "description":" seeking new employment!",
     "image":"newheadshot.jpg",
     "bio":"I'm a computer science alumni with an emphasis on Artificial Intelligence and Game Design. I am comfortable with a variety of technologies, including Java, Python, ReactJS, and others, and am experienced with working in agile development cycles and have performed well in many leadership roles. I also like Italian food, video games, the Rat Pack, and Steelers football #HereWeGo",
     "contactmessage":"Reach out to me if you have questions or potential employment opportunities!",
@@ -57,8 +57,8 @@
     "work":[
       {
         "company":"Publicis Sapient",
-        "title":"Associate Software Engineer L1",
-        "years":"July 2022 - Present",
+        "title":"Software Engineer L2",
+        "years":"July 2022 - March 2026",
         "description":"Work as a Salesforce developer for a variety of clients ranging with a variety of differing needs and requirements. Clients include Keurig-Dr. Pepper and Ford Motors"
       },
       {
@@ -98,6 +98,10 @@
         "level":"95%"
       },
       {
+        "name":"Lightning Web Components",
+        "level":"95%"
+      },
+      {
         "name":"Python",
         "level":"90%"
       },
@@ -111,7 +115,7 @@
       },
       {
         "name":"CSS",
-        "level":80%"
+        "level":"80%"
       },
       {
         "name":"ReactJs",
